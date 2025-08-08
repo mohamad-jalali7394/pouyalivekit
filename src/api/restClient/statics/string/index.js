@@ -1,0 +1,30 @@
+export default {
+  search: 'جست و جو',
+  table: {
+    dynamicTips1: 'Fixed header, sorted by header order',
+    dynamicTips2: 'Not fixed header, sorted by click order',
+    dragTips1: 'The default order',
+    dragTips2: 'The after dragging order',
+    title: 'عنوان',
+    importance: 'Imp',
+    type: 'Type',
+    remark: 'Remark',
+    search: 'جستجو',
+    add: 'اضافه',
+    export: 'استخراج',
+    reviewer: 'reviewer',
+    id: 'ID',
+    date: 'Date',
+    author: 'Author',
+    readings: 'Readings',
+    status: 'Status',
+    actions: 'عملیات',
+    edit: 'ویرایش',
+    publish: 'Publish',
+    draft: 'Draft',
+    delete: 'حذف',
+    cancel: 'انصراف',
+    confirm: 'تایید',
+    reset: 'بازگشت به تنظیمات اولیه'
+  }
+}

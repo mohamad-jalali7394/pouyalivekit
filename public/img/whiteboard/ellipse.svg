@@ -1,0 +1,8 @@
+            <svg
+              version="1.1"
+
+              xmlns="http://www.w3.org/2000/svg"
+              viewBox="-15 -10 30 20"
+            >
+              <ellipse stroke="#f6f6f6" stroke-width="1.5" fill="none" rx="14" ry="9" />
+            </svg>
